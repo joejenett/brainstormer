@@ -1,0 +1,3 @@
+There’s many words that could use a little tweaking to make their meaning a little more clear or at least, a little more descriptive in terms of the reality they describe. Adding or deleting a single character (as in ‘healthscare’) or changing a syllable slightly (as in ‘politricks’) brings us closer to a word’s true meaning.
+
+Then again, one's own experience or perspective might come into play here - I know - I’m kinda silly...
