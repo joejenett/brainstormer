@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the oasis.md",
+                "file": "chasing thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the oasis.md",
+                "file": "chasing thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the oasis.md",
+                "file": "chasing thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the oasis.md"
+                "file": "chasing thought.md"
               }
             }
           }
@@ -148,23 +148,23 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "add one letter.md",
+    "a definition with attitude.md",
+    "a web thought.md",
+    "above the sub shop.md",
+    "the oasis.md",
     "the bay.md",
     "sub.md",
     "sanity 2.md",
     "reactions.md",
     "makers.md",
     "freeform 09-28-21.md",
-    "above the sub shop.md",
-    "add one letter.md",
     "urges-1.md",
     "now.md",
     "in the air.md",
     "chasing thought.md",
     "posts/sub.md",
     "posts",
-    "shatters.md",
-    "the oasis.md",
-    "a web thought.md",
-    "a definition with attitude.md"
+    "shatters.md"
   ]
 }
