@@ -5,8 +5,18 @@
 html,
 body {
 	height: 100%;
+	margin-top:6px;
 }
 
 ::selection {
 	background: theme('colors.red.400');
+}
+button, a.bg-blue-300 {
+display:none;
+}
+.py-10, .pt-10 {
+padding-top:0;
+}
+.p-1 {
+padding:0;
 }
