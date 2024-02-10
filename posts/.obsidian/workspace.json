@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chasing thought.md",
+                "file": "a definition with attitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chasing thought.md",
+                "file": "a definition with attitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chasing thought.md",
+                "file": "a definition with attitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chasing thought.md"
+                "file": "a definition with attitude.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "chasing thought.md",
     "add one letter.md",
     "a definition with attitude.md",
     "a web thought.md",
@@ -162,7 +163,6 @@
     "urges-1.md",
     "now.md",
     "in the air.md",
-    "chasing thought.md",
     "posts/sub.md",
     "posts",
     "shatters.md"
