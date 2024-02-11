@@ -8,7 +8,7 @@ I come to know
 that things I need
 ain’t unique to me
 
-[[need]]
+[need](need.md)
 
 
 

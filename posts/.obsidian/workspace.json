@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lazarus - David Bowie.md",
+                "file": "welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lazarus - David Bowie.md",
+                "file": "welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lazarus - David Bowie.md",
+                "file": "welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lazarus - David Bowie.md"
+                "file": "welcome.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d12f559e9087eb0",
+  "active": "fa6e9cad668dacba",
   "lastOpenFiles": [
+    "need.md",
+    "urges-1.md",
+    "Lazarus - David Bowie.md",
     "in the mundane.md",
     "rain never lies.md",
     "looking back.md",
     "pain is real.md",
-    "Lazarus - David Bowie.md",
     "just me.md",
     "just me.txt",
     "a definition with attitude.md",
@@ -167,7 +169,6 @@
     "reactions.md",
     "makers.md",
     "freeform 09-28-21.md",
-    "urges-1.md",
     "now.md",
     "in the air.md",
     "posts/sub.md",
