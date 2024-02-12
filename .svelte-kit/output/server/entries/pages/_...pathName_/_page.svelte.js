@@ -375,7 +375,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   }
   $$unsubscribe_page();
   $$unsubscribe_focusedText();
-  return `<title>𝗃𝗈𝖾. 𝖻𝗋𝖺𝗂𝗇𝗌𝗍𝗈𝗋𝗆𝖾𝗋. - ${escape(postName)}</title> <div class="md:w-[26rem] lg:w-[36rem] mx-auto md:p-0 px-5 svelte-iwus63"><div class="mb-5 px-1 svelte-iwus63"><h1 class="text-lg font-semibold">${escape(postName)}</h1> <div class="mb-2 svelte-iwus63"><i class="mr-3">${escape(publishDate.toDateString())}</i> ${each(postTags, (tag) => {
+  return `<title>joe. brainstormer. - ${escape(postName)}</title> <div class="md:w-[26rem] lg:w-[36rem] mx-auto md:p-0 px-5 svelte-iwus63"><div class="mb-5 px-1 svelte-iwus63"><h1 class="text-lg font-semibold">${escape(postName)}</h1> <div class="mb-2 svelte-iwus63"><i class="mr-3">${escape(publishDate.toDateString())}</i> ${each(postTags, (tag) => {
     return `<span class="mx-1 mb-1 px-1 border border-black bg-red-200">${escape(tag)}</span>`;
   })}</div> ${ageAtPublish < AGE_YOU_STOPPED_BEING_CRINGE ? `<div class="p-2 border border-red-800 bg-red-200 text-sm text-red-800 svelte-iwus63">${escape(CRINGE_MESSAGE)}</div>` : ``}</div> ${each(segments, (segment, index) => {
     return `${segment.trim().length > 0 ? `  ${segment.trim().startsWith("//") ? `<div role="article" id="${"editor-block-" + escape(index, true)}" class="text-left text-green-800 block p-1 break-words whitespace-pre-wrap svelte-iwus63">${validate_component(SvelteMarkdown, "SvelteMarkdown").$$render($$result, { source: segment, isInline: true }, {}, {})} </div>` : `${segment.trim() === "~" ? `<div class="text-gray-300 svelte-iwus63" data-svelte-h="svelte-xwlwme">~</div>` : `<div role="article" id="${"editor-block-" + escape(index, true)}" class="${[
