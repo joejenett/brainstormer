@@ -1,4 +1,3 @@
-# needs
 at the music show
 I came to know
 there’s things I need
@@ -9,5 +8,5 @@ a world of beings
 holding on tight
 for their sanity
 
-[[harmony]]
-[[pain is real]]
+[harmony](harmony.md)
+[pain is real](pain%20is%20real.md)

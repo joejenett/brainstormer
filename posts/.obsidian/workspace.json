@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "welcome.md",
+                "file": "harmony.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "welcome.md",
+                "file": "harmony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "welcome.md",
+                "file": "harmony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "welcome.md"
+                "file": "harmony.md"
               }
             }
           }
@@ -146,33 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6e9cad668dacba",
+  "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
     "need.md",
-    "urges-1.md",
-    "Lazarus - David Bowie.md",
-    "in the mundane.md",
-    "rain never lies.md",
-    "looking back.md",
-    "pain is real.md",
+    "harmony.md",
+    "sub.md",
     "just me.md",
+    "in the mundane.md",
+    "in the air.md",
+    "hair.md",
+    "glimpstory.md",
+    "freeform 09-28-21.md",
+    "fleeting.md",
+    "doing.md",
+    "chasing thought.md",
+    "urges-1.md",
+    "the oasis.md",
+    "looking back.md",
+    "Lazarus - David Bowie.md",
+    "glimpstory 090318.md",
+    "shatters.md",
+    "driven.md",
+    "welcome.md",
+    "rain never lies.md",
+    "pain is real.md",
     "just me.txt",
     "a definition with attitude.md",
     "a web thought.md",
-    "chasing thought.md",
     "add one letter.md",
     "above the sub shop.md",
-    "the oasis.md",
-    "the bay.md",
-    "sub.md",
-    "sanity 2.md",
-    "reactions.md",
-    "makers.md",
-    "freeform 09-28-21.md",
-    "now.md",
-    "in the air.md",
-    "posts/sub.md",
-    "posts",
-    "shatters.md"
+    "posts"
   ]
 }
