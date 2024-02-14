@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harmony.md",
+                "file": "for what it's worth.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "music",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "harmony.md",
+                "file": "for what it's worth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harmony.md",
+                "file": "for what it's worth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "harmony.md"
+                "file": "for what it's worth.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
-    "need.md",
-    "harmony.md",
+    "sanity 2.md",
+    "shatters.md",
     "sub.md",
+    "the bay.md",
+    "the oasis.md",
+    "urges-1.md",
+    "we all hurt.md",
+    "makers.md",
+    "for what it's worth.md",
+    "rain never lies.md",
     "just me.md",
     "in the mundane.md",
-    "in the air.md",
-    "hair.md",
     "glimpstory.md",
     "freeform 09-28-21.md",
     "fleeting.md",
-    "doing.md",
-    "chasing thought.md",
-    "urges-1.md",
-    "the oasis.md",
-    "looking back.md",
-    "Lazarus - David Bowie.md",
-    "glimpstory 090318.md",
-    "shatters.md",
     "driven.md",
-    "welcome.md",
-    "rain never lies.md",
-    "pain is real.md",
+    "doing.md",
+    "cypress.md",
+    "create-1.md",
+    "need.md",
+    "looking back.md",
+    "harmony.md",
+    "in the air.md",
+    "hair.md",
+    "chasing thought.md",
+    "Lazarus - David Bowie.md",
     "just me.txt",
-    "a definition with attitude.md",
-    "a web thought.md",
-    "add one letter.md",
-    "above the sub shop.md",
     "posts"
   ]
 }
