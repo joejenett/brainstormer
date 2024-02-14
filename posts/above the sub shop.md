@@ -1,1 +1,1 @@
-We lived above the sub shop. My parents had opened one of area’s first, specializing in [Italian subs](sub.md), Philly steak sandwiches, Sicilian pizza, and other goodies. It’s not surprising I was a fat little kid back then.
+We lived above the sub shop. My parents had opened one of area’s first, specializing in [Italian subs](https://ideas.joejenett.com/#sub), Philly steak sandwiches, Sicilian pizza, and other goodies. It’s not surprising I was a fat little kid back then.
