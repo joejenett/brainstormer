@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glimpstory.md",
+                "file": "welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glimpstory.md",
+                "file": "welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glimpstory.md",
+                "file": "welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glimpstory.md"
+                "file": "welcome.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "glimpstory.md",
     "freeform 09-28-21.md",
     "above the sub shop.md",
     "for what it's worth.md",
@@ -162,7 +163,6 @@
     "rain never lies.md",
     "just me.md",
     "in the mundane.md",
-    "glimpstory.md",
     "fleeting.md",
     "driven.md",
     "doing.md",
