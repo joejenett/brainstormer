@@ -40,6 +40,7 @@ declare module '$env/static/private' {
 	export const PERL5LIB: string;
 	export const MCFLY_HISTORY: string;
 	export const TERM_PROGRAM_VERSION: string;
+	export const MCFLY_RESULTS: string;
 	export const SDKROOT: string;
 	export const COLOR: string;
 	export const PERL_MB_OPT: string;
@@ -133,6 +134,7 @@ declare module '$env/dynamic/private' {
 		PERL5LIB: string;
 		MCFLY_HISTORY: string;
 		TERM_PROGRAM_VERSION: string;
+		MCFLY_RESULTS: string;
 		SDKROOT: string;
 		COLOR: string;
 		PERL_MB_OPT: string;
