@@ -155,7 +155,7 @@ const options = {
 <div style="padding:3px 12px;background:#dedede;">
 <a href="javascript:history.go(-1)">
 <button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">&lt;&mdash;go back</button>
-</a>  &nbsp; 
+</a>
 <a href="https://ideas.joejenett.com/">
 <button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">🌱 joe.ideas.&mdash;&gt;</button>
 </a>
@@ -232,7 +232,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "1q2skuy"
+  version_hash: "1hmwfjp"
 };
 async function get_hooks() {
   return {};

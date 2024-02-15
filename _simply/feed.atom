@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">simply.</title>
+  <link type="application/atom+xml" href="https://simply.jenett.org/feed.atom" rel="self"/>
+  <link type="text/html" href="https://simply.jenett.org/" rel="alternate"/>
+  <updated>2024-02-15T07:26:15-05:00</updated>
+  <id>https://simply.jenett.org/full_content_feed</id>
+  <author>
+    <name>joe jenett</name>
+  </author>
+  <rights>2000-2022 © joe jenett. Some rights reserved.</rights>
+
+  
+  <entry>
+    <title>careful what you ask for</title>
+    <link href="https://simply.jenett.org/careful-what-you-ask-for/"/>
+    <updated>2024-01-28T20:07:54-05:00</updated>
+    <id>https://simply.jenett.org/careful-what-you-ask-for/</id>
+    <content type="html">&lt;p&gt;Smarts homes and digital assistants are great but one needs to stay a step ahead of ’em.&lt;/p&gt;
+
+&lt;p&gt;Back when I got real sick a few months ago, I was bedridden at home for 8 days before finally deciding to go to the ER. I doubt I would have survived those days at home had it not been for my wife Kim who was always there for me. We stayed in touch with messages and everything I needed appeared in a flash. She is kinda amazing, thank you.&lt;/p&gt;
+
+&lt;p&gt;So. One late evening, I used Siri to tell Kim “help” (not an odd request in context). A short while thereafter, the doorbell rang several times. It was the police.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-could-this-happen&quot;&gt;how could this happen?&lt;/h2&gt;
+&lt;p&gt;When I gave the &lt;em&gt;hey Siri&lt;/em&gt;, it was picked up by a new HomePod, recently purchased to use as a hub for Matter accessories. At the time, I replaced 4 outlets with new ones requiring the new hub. I failed to take into account the fact that the HomePod provides only spoken confirmations. Turns out I heard the confirmation just as poorly as Siri heard my command. Oops! My bad!&lt;/p&gt;
+
+&lt;p&gt;So a neighbor of ours named Ken got the help message and rightfully called the police because he was concerned that it could be a genuine request (though he thought it was most likely some kind of error). I later told him how much I appreciated that he cared enough to do that. Good neighbor.&lt;/p&gt;
+
+&lt;h2 id=&quot;and-what-did-joe-learn&quot;&gt;and what did joe learn?&lt;/h2&gt;
+&lt;p&gt;If Siri turns off the wrong light, so what! When Siri sends an important message to the wrong person though, that’s a biggie. Though Kim convinced the police that everything was okay, it could have gone much differently.&lt;/p&gt;
+
+&lt;p&gt;It didn’t take long to figure out how it happened and what I needed to do to prevent such a thing in the future.&lt;/p&gt;
+
+&lt;p&gt;New rule - disable &lt;em&gt;personal requests&lt;/em&gt; on devices that provide spoken confirmations only. Done.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://simply.jenett.org/4050/"/>
+    <updated>2023-12-23T05:16:33-05:00</updated>
+    <id>https://simply.jenett.org/4050/</id>
+    <content type="html">&lt;p&gt;
+wonder what matters&lt;br /&gt;
+life too short to dive in deep&lt;br /&gt;
+random answers thrive 
+&lt;/p&gt;
+
+&lt;p&gt;#haiku&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://simply.jenett.org/4049/"/>
+    <updated>2023-12-18T17:32:23-05:00</updated>
+    <id>https://simply.jenett.org/4049/</id>
+    <content type="html">&lt;p&gt;
+A huge* tree out back at the edge of the yard just went down. It could have done some damage had it fallen in the direction of the house. Instead, it fell to the side in a neat path, just missing the patio, security light, and back corner of the house. Just call us the lucky jenetts...
+&lt;/p&gt;
+&lt;p&gt;
+Update 12/19/23:&lt;br /&gt;
+* Not exactly &lt;em&gt;huge&lt;/em&gt; - it’s no more than a 12&quot; diameter and no longer than 60' - but this little guy made a &lt;em&gt;huge&lt;/em&gt; thump when it hit the ground... 😎
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://simply.jenett.org/4048/"/>
+    <updated>2023-12-07T09:58:40-05:00</updated>
+    <id>https://simply.jenett.org/4048/</id>
+    <content type="html">&lt;p&gt;Thankful to tell you I’m here and I’m okay…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>been diggin’ my new desktop...</title>
+    <link href="https://simply.jenett.org/been-diggin-my-new-desktop/"/>
+    <updated>2023-11-15T20:09:01-05:00</updated>
+    <id>https://simply.jenett.org/been-diggin-my-new-desktop/</id>
+    <content type="html">&lt;p&gt;Spent some hours today finishing it up and like where it ended up. What fun!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;/desk.html&quot;&gt;&lt;img title=&quot;a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay.&quot; src=&quot;https://simply.joejenett.com/images/desk.png&quot; alt=&quot;a screenshot of my new desktop with a grid background, a silhouette of a bull, and a cutout for black and white icons. the dock also has has black and white icons. yay.&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;(Updated 12/21/23, 12/18/23, 11/19/23, and 11/16/23)&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Schnoozy kitty, meet the zonked Mr. Mojo</title>
+    <link href="https://simply.jenett.org/schnoozy-kitty-meet-the-zonked-mr-mojo/"/>
+    <updated>2023-10-09T21:29:36-04:00</updated>
+    <id>https://simply.jenett.org/schnoozy-kitty-meet-the-zonked-mr-mojo/</id>
+    <content type="html">&lt;p&gt;A &lt;a href=&quot;https://adactio.com/notes/20527&quot;&gt;photo by Jeremy Keith&lt;/a&gt; sure reminded me of my old buddy &lt;a href=&quot;https://joejenett.com/photo.old/?p=critters/zonked/&quot;&gt;Mr. Mojo&lt;/a&gt;. I’m thinkin’ they coulda been twins. Anyway, enjoy the kitty pics - Jeremy’s picture is the first followed by a shot of my long gone friend...&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/images/schnoozy.jpg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/images/zonked.jpg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://simply.jenett.org/4047/"/>
+    <updated>2023-09-24T08:15:11-04:00</updated>
+    <id>https://simply.jenett.org/4047/</id>
+    <content type="html">&lt;blockquote class=&quot;quoteback&quot; data-title=&quot;dimden's hotel&quot; data-author=&quot;//dimden&quot; data-avatar=&quot;https://dimden.dev/images/dimden.gif&quot; cite=&quot;https://dimden.dev/&quot;&gt;
+	&lt;p&gt;
+		I'm from Ukraine (and yes, I still live here).
+	&lt;/p&gt;
+	&lt;footer&gt;
+		// 
+		&lt;cite&gt;
+			&lt;a href=&quot;https://dimden.dev/&quot;&gt;dimden's hotel&lt;/a&gt;
+		&lt;/cite&gt;
+	&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;Life goes on... 😎&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
