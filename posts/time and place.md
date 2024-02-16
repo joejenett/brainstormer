@@ -4,7 +4,7 @@ Apparently _those people_ aren’t really people. They’re like monsters gettin
 
 Saying more about that now just adds to the noise, so let’s move on. My mind swirled a bit when I first read this at Anne’s place and I’m still thinkin’ about it:
 
-“Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.” - Terry Pratchett</blockquote>
+“Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.” - Terry Pratchett
 
 From Colorado to Delaware to Florida to Illinois to Michigan. All the stops in one’s journey define who they are and going back to where one started is just a visit to another new, though familiar place.
 
