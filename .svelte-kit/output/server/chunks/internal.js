@@ -152,7 +152,7 @@ const options = {
     app: ({ head, body, assets: assets2, nonce, env }) => '<!doctype html>\n<html lang="en">\n	<head>\n		<meta charset="utf-8" />\n		<link rel="icon" href="' + assets2 + '/favicon.png" />\n		<meta name="viewport" content="width=device-width, initial-scale=1" />\n		' + head + `
 	</head>
 	<body data-sveltekit-preload-data="hover">
-<div style="padding:3px 12px;background:#dedede;">
+<div style="padding:3px 12px;background:#dedede;margin-bottom:6px;">
 <a href="javascript:history.go(-1)">
 <button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">&lt;&mdash;go back</button>
 </a>
@@ -232,7 +232,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "1hmwfjp"
+  version_hash: "1rrv6ij"
 };
 async function get_hooks() {
   return {};
