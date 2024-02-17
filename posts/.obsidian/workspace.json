@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "welcome.md",
+                "file": "fleeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "welcome.md",
+                "file": "fleeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "welcome.md",
+                "file": "fleeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "welcome.md"
+                "file": "fleeting.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "for what it's worth.md",
+    "freeform 09-28-21.md",
+    "in the mundane.md",
+    "looking back.md",
+    "touch my scattered soul.md",
+    "welcome.md",
     "time and place.md",
     "moi.md",
-    "touch my scattered soul.md",
-    "in the mundane.md",
-    "welcome.md",
     "glimpstory.md",
-    "freeform 09-28-21.md",
     "above the sub shop.md",
-    "for what it's worth.md",
     "sanity 2.md",
     "shatters.md",
     "sub.md",
@@ -173,7 +174,6 @@
     "cypress.md",
     "create-1.md",
     "need.md",
-    "looking back.md",
     "just me.txt",
     "posts"
   ]
