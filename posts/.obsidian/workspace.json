@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting.md",
+                "file": "just me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fleeting.md",
+                "file": "just me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fleeting.md",
+                "file": "just me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fleeting.md"
+                "file": "just me.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "sanity 2.md",
+    "reactions.md",
+    "chasing thought.md",
     "for what it's worth.md",
+    "fleeting.md",
     "freeform 09-28-21.md",
     "in the mundane.md",
     "looking back.md",
@@ -158,7 +162,6 @@
     "moi.md",
     "glimpstory.md",
     "above the sub shop.md",
-    "sanity 2.md",
     "shatters.md",
     "sub.md",
     "the bay.md",
@@ -168,12 +171,9 @@
     "makers.md",
     "rain never lies.md",
     "just me.md",
-    "fleeting.md",
     "driven.md",
     "doing.md",
     "cypress.md",
-    "create-1.md",
-    "need.md",
     "just me.txt",
     "posts"
   ]
