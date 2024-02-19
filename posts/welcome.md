@@ -4,6 +4,8 @@ Click on a post in the sidebar to view it. Click on a paragraph* to view related
 
 The mobile version works best in landscape mode.
 
+Powered by [Yurt](What%20is%20Yurt.md).
+
 *related:*
 [‘a writing app built around semantic search’](https://iwebthings.joejenett.com/a-writing-app-built-around-semantic-search/)
 [follow-up: ‘a writing app built around semantic search’](https://iwebthings.joejenett.com/follow-up-a-writing-app-built-around-semantic-search/)

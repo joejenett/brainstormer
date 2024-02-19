@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "just me.md",
+                "file": "What is Yurt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "just me.md",
+                "file": "What is Yurt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "just me.md",
+                "file": "What is Yurt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "just me.md"
+                "file": "What is Yurt.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4d12f559e9087eb0",
   "lastOpenFiles": [
+    "welcome.md",
+    "What is Yurt.md",
+    "just me.md",
     "sanity 2.md",
     "reactions.md",
     "chasing thought.md",
@@ -157,7 +160,6 @@
     "in the mundane.md",
     "looking back.md",
     "touch my scattered soul.md",
-    "welcome.md",
     "time and place.md",
     "moi.md",
     "glimpstory.md",
@@ -170,10 +172,8 @@
     "we all hurt.md",
     "makers.md",
     "rain never lies.md",
-    "just me.md",
     "driven.md",
     "doing.md",
-    "cypress.md",
     "just me.txt",
     "posts"
   ]
