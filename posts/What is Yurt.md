@@ -10,6 +10,6 @@ There are pros and cons to this approach. The biggest pro is that it generates a
 
 I think eventually, I might want to deploy a blog with a full fledged backend, so users can query anything they'd like to my blog. 
 
-[🠤](https://blog.nicholaschen.io/posts/What%20is%20Yurt.txt)
+[⬅](https://blog.nicholaschen.io/posts/What%20is%20Yurt.txt)
  
  
