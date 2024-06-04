@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3243be4c2a21440e",
+        "id": "d60d48999d3349eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4d12f559e9087eb0",
+            "id": "8d262244c7344852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is Yurt.md",
+                "file": "welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7acbfb84e710cce7",
+            "id": "c971314f9b3c5cb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fcb5a5cc88ce957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "‘webstream’ revisited.md",
+                "file": "jump1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "‘webstream’ revisited.md",
+                "file": "jump1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "‘webstream’ revisited.md",
+                "file": "jump1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "‘webstream’ revisited.md"
+                "file": "jump1.md"
               }
             }
           }
@@ -171,19 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fcb5a5cc88ce957",
+  "active": "c971314f9b3c5cb6",
   "lastOpenFiles": [
-    "help.md",
-    "‘webstream’ revisited.md",
-    "What is Yurt.md",
+    "no prompt.md",
     "welcome.md",
+    "jump1.md",
+    "What is Yurt.md",
+    "help.md",
+    "freeform 09-28-21.md",
+    "‘webstream’ revisited.md",
     "just me.md",
     "sanity 2.md",
     "reactions.md",
     "chasing thought.md",
     "for what it's worth.md",
     "fleeting.md",
-    "freeform 09-28-21.md",
     "in the mundane.md",
     "looking back.md",
     "touch my scattered soul.md",
@@ -197,8 +187,6 @@
     "the oasis.md",
     "urges-1.md",
     "we all hurt.md",
-    "makers.md",
-    "rain never lies.md",
     "just me.txt",
     "posts"
   ]

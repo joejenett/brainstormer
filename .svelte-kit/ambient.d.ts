@@ -27,10 +27,13 @@
  */
 declare module '$env/static/private' {
 	export const SONSE: string;
+	export const NVM_INC: string;
 	export const MANPATH: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
 	export const INIT_CWD: string;
+	export const PYENV_ROOT: string;
+	export const NVM_CD_FLAGS: string;
 	export const TERM: string;
 	export const SHELL: string;
 	export const HISTSIZE: string;
@@ -48,6 +51,8 @@ declare module '$env/static/private' {
 	export const npm_config_noproxy: string;
 	export const npm_config_local_prefix: string;
 	export const USER: string;
+	export const NVM_DIR: string;
+	export const COMMAND_MODE: string;
 	export const npm_config_globalconfig: string;
 	export const MCFLY_SESSION_ID: string;
 	export const SSH_AUTH_SOCK: string;
@@ -55,7 +60,9 @@ declare module '$env/static/private' {
 	export const npm_execpath: string;
 	export const BASH_SILENCE_DEPRECATION_WARNING: string;
 	export const MCFLY_HISTFILE: string;
+	export const TERM_FEATURES: string;
 	export const PATH: string;
+	export const TERMINFO_DIRS: string;
 	export const npm_package_json: string;
 	export const _: string;
 	export const npm_config_userconfig: string;
@@ -67,6 +74,8 @@ declare module '$env/static/private' {
 	export const EDITOR: string;
 	export const npm_package_name: string;
 	export const LANG: string;
+	export const ITERM_PROFILE: string;
+	export const MCFLY_BASH_SEARCH_KEYBINDING: string;
 	export const npm_config_npm_version: string;
 	export const XPC_FLAGS: string;
 	export const npm_config_node_gyp: string;
@@ -75,19 +84,27 @@ declare module '$env/static/private' {
 	export const XPC_SERVICE_NAME: string;
 	export const HISTCONTROL: string;
 	export const SHLVL: string;
+	export const COLORFGBG: string;
 	export const HOME: string;
+	export const PYENV_SHELL: string;
+	export const LC_TERMINAL_VERSION: string;
 	export const HOMEBREW_PREFIX: string;
 	export const PERL_LOCAL_LIB_ROOT: string;
+	export const ITERM_SESSION_ID: string;
 	export const npm_config_cache: string;
 	export const LOGNAME: string;
 	export const npm_lifecycle_script: string;
+	export const NVM_BIN: string;
 	export const npm_config_user_agent: string;
 	export const HOMEBREW_CELLAR: string;
 	export const INFOPATH: string;
 	export const DISPLAY: string;
+	export const LC_TERMINAL: string;
+	export const MCFLY_BASH_ACCEPT_LINE_KEYBINDING: string;
 	export const PERL_MM_OPT: string;
 	export const npm_node_execpath: string;
 	export const npm_config_prefix: string;
+	export const COLORTERM: string;
 	export const NODE_ENV: string;
 }
 
@@ -121,10 +138,13 @@ declare module '$env/static/public' {
 declare module '$env/dynamic/private' {
 	export const env: {
 		SONSE: string;
+		NVM_INC: string;
 		MANPATH: string;
 		TERM_PROGRAM: string;
 		NODE: string;
 		INIT_CWD: string;
+		PYENV_ROOT: string;
+		NVM_CD_FLAGS: string;
 		TERM: string;
 		SHELL: string;
 		HISTSIZE: string;
@@ -142,6 +162,8 @@ declare module '$env/dynamic/private' {
 		npm_config_noproxy: string;
 		npm_config_local_prefix: string;
 		USER: string;
+		NVM_DIR: string;
+		COMMAND_MODE: string;
 		npm_config_globalconfig: string;
 		MCFLY_SESSION_ID: string;
 		SSH_AUTH_SOCK: string;
@@ -149,7 +171,9 @@ declare module '$env/dynamic/private' {
 		npm_execpath: string;
 		BASH_SILENCE_DEPRECATION_WARNING: string;
 		MCFLY_HISTFILE: string;
+		TERM_FEATURES: string;
 		PATH: string;
+		TERMINFO_DIRS: string;
 		npm_package_json: string;
 		_: string;
 		npm_config_userconfig: string;
@@ -161,6 +185,8 @@ declare module '$env/dynamic/private' {
 		EDITOR: string;
 		npm_package_name: string;
 		LANG: string;
+		ITERM_PROFILE: string;
+		MCFLY_BASH_SEARCH_KEYBINDING: string;
 		npm_config_npm_version: string;
 		XPC_FLAGS: string;
 		npm_config_node_gyp: string;
@@ -169,19 +195,27 @@ declare module '$env/dynamic/private' {
 		XPC_SERVICE_NAME: string;
 		HISTCONTROL: string;
 		SHLVL: string;
+		COLORFGBG: string;
 		HOME: string;
+		PYENV_SHELL: string;
+		LC_TERMINAL_VERSION: string;
 		HOMEBREW_PREFIX: string;
 		PERL_LOCAL_LIB_ROOT: string;
+		ITERM_SESSION_ID: string;
 		npm_config_cache: string;
 		LOGNAME: string;
 		npm_lifecycle_script: string;
+		NVM_BIN: string;
 		npm_config_user_agent: string;
 		HOMEBREW_CELLAR: string;
 		INFOPATH: string;
 		DISPLAY: string;
+		LC_TERMINAL: string;
+		MCFLY_BASH_ACCEPT_LINE_KEYBINDING: string;
 		PERL_MM_OPT: string;
 		npm_node_execpath: string;
 		npm_config_prefix: string;
+		COLORTERM: string;
 		NODE_ENV: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;
