@@ -11,6 +11,8 @@ Powered by [Yurt](What%20is%20Yurt.md).
 [follow-up: ‘a writing app built around semantic search’](https://iwebthings.joejenett.com/follow-up-a-writing-app-built-around-semantic-search/)
 
 02/16/24: Continuing to add content - something from 1998 way down there on the list.
+
+06/04/24: Added several items, including [running](running.md) from 2000.
 <div style="border-bottom: 1px solid #444"> </div>
 * Here's a few starting points:
  - me
