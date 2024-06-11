@@ -30,9 +30,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1e422511e184606",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
+            "id": "767e2254c3e26b1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jump1.md",
+                "file": "welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jump1.md",
+                "file": "welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jump1.md"
+                "file": "welcome.md"
               }
             }
           }
@@ -159,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c971314f9b3c5cb6",
+  "active": "8d262244c7344852",
   "lastOpenFiles": [
     "no prompt.md",
     "welcome.md",
