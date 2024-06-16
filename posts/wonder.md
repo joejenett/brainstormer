@@ -1,0 +1,3 @@
+one has to wonder...
+how can some who espouse love
+be so close-minded?

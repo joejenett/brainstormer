@@ -1,0 +1,1 @@
+We're surrounded by messages. Get rich quick. Get out of debt for fifty cents on the dollar. "Could I call your wife about my business? I think her company could help me." Surrounded by messages. It drives me crazy.

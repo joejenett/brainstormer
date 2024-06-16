@@ -1,0 +1,1 @@
+Links are magical, affording the ability to share things that interest us with others and to bookmark those things we'd like to easily revisit in the future. If anything amazes me about the web, it is the magic of links.
