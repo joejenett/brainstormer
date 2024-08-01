@@ -20,4 +20,4 @@ We finally stop and for a moment, I think of running away.  They won't miss me -
 
 "You'll see, kids, it'll all work out in Florida."
 
-[🢀](https://bulltown.2022.joejenett.com/core/?seek=running)
+[🢀](https://bulltown.joejenett.com/words/running/)
