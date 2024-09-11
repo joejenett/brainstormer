@@ -31,8 +31,8 @@ declare module '$env/static/private' {
 	export const NODE: string;
 	export const INIT_CWD: string;
 	export const GEM_HOME: string;
-	export const TERM: string;
 	export const SHELL: string;
+	export const TERM: string;
 	export const HISTSIZE: string;
 	export const TMPDIR: string;
 	export const HOMEBREW_REPOSITORY: string;
@@ -67,7 +67,6 @@ declare module '$env/static/private' {
 	export const EDITOR: string;
 	export const npm_package_name: string;
 	export const LANG: string;
-	export const MCFLY_BASH_SEARCH_KEYBINDING: string;
 	export const npm_config_npm_version: string;
 	export const XPC_FLAGS: string;
 	export const RUBY_ENGINE: string;
@@ -76,8 +75,8 @@ declare module '$env/static/private' {
 	export const npm_package_version: string;
 	export const XPC_SERVICE_NAME: string;
 	export const HISTCONTROL: string;
-	export const HOME: string;
 	export const SHLVL: string;
+	export const HOME: string;
 	export const HOMEBREW_PREFIX: string;
 	export const GEM_ROOT: string;
 	export const PERL_LOCAL_LIB_ROOT: string;
@@ -90,7 +89,6 @@ declare module '$env/static/private' {
 	export const HOMEBREW_CELLAR: string;
 	export const INFOPATH: string;
 	export const DISPLAY: string;
-	export const MCFLY_BASH_ACCEPT_LINE_KEYBINDING: string;
 	export const RUBYOPT: string;
 	export const RUBY_VERSION: string;
 	export const PERL_MM_OPT: string;
@@ -133,8 +131,8 @@ declare module '$env/dynamic/private' {
 		NODE: string;
 		INIT_CWD: string;
 		GEM_HOME: string;
-		TERM: string;
 		SHELL: string;
+		TERM: string;
 		HISTSIZE: string;
 		TMPDIR: string;
 		HOMEBREW_REPOSITORY: string;
@@ -169,7 +167,6 @@ declare module '$env/dynamic/private' {
 		EDITOR: string;
 		npm_package_name: string;
 		LANG: string;
-		MCFLY_BASH_SEARCH_KEYBINDING: string;
 		npm_config_npm_version: string;
 		XPC_FLAGS: string;
 		RUBY_ENGINE: string;
@@ -178,8 +175,8 @@ declare module '$env/dynamic/private' {
 		npm_package_version: string;
 		XPC_SERVICE_NAME: string;
 		HISTCONTROL: string;
-		HOME: string;
 		SHLVL: string;
+		HOME: string;
 		HOMEBREW_PREFIX: string;
 		GEM_ROOT: string;
 		PERL_LOCAL_LIB_ROOT: string;
@@ -192,7 +189,6 @@ declare module '$env/dynamic/private' {
 		HOMEBREW_CELLAR: string;
 		INFOPATH: string;
 		DISPLAY: string;
-		MCFLY_BASH_ACCEPT_LINE_KEYBINDING: string;
 		RUBYOPT: string;
 		RUBY_VERSION: string;
 		PERL_MM_OPT: string;
