@@ -1,8 +1,8 @@
 **Welcome to the brainstormer.**  
-Click on a post in the sidebar to view it.*  
-Click on a paragraph* to view related ideas.*  
+Click on a post in the sidebar to view it.  
+Click on a paragraph* to view related ideas.  
 
-*Sorry - only works in landscape mode on mobile.
+**Sorry - only works in landscape mode on mobile.**
 
 Powered by [Yurt](What%20is%20Yurt.md)
 
