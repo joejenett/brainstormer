@@ -2,7 +2,7 @@
 Click on a post in the sidebar to view it.  
 Click on a paragraph* to view related ideas.  
 
-**Sorry - only works in landscape mode on mobile.**
+**Mobile version works best in landscape mode.**
 
 Powered by [Yurt](What%20is%20Yurt.md)
 
