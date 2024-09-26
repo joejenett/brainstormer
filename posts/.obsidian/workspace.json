@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d60d48999d3349eb",
+        "id": "774f0777a9b80ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d262244c7344852",
+            "id": "4c1c6d3d9f68402c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "touch my scattered soul.md",
+                "file": "empires.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c971314f9b3c5cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jump1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e422511e184606",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "767e2254c3e26b1a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
               }
             }
           }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "touch my scattered soul.md",
+                "file": "empires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "touch my scattered soul.md",
+                "file": "empires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "touch my scattered soul.md"
+                "file": "empires.md"
               }
             }
           }
@@ -178,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6e9cad668dacba",
+  "active": "4c1c6d3d9f68402c",
   "lastOpenFiles": [
-    "running.md",
     "welcome.md",
+    "empires.md",
+    "touch my scattered soul.md",
+    "jump1.md",
+    "running.md",
     "welcome-archived -1.md",
     "no prompt.md",
-    "jump1.md",
     "What is Yurt.md",
     "help.md",
     "freeform 09-28-21.md",
@@ -197,7 +167,6 @@
     "fleeting.md",
     "in the mundane.md",
     "looking back.md",
-    "touch my scattered soul.md",
     "time and place.md",
     "moi.md",
     "glimpstory.md",
@@ -205,7 +174,6 @@
     "shatters.md",
     "sub.md",
     "the bay.md",
-    "the oasis.md",
     "just me.txt",
     "posts"
   ]

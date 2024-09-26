@@ -15,9 +15,10 @@ a few starting points:
 - years
 - web  
 - pain 
-<div style="border-bottom: 1px solid #444"> </div>  
-06/04/24: Added several items, including [running](running.md) from 2000.
 
+<hr>  
+09/26/24: Brainstorming is underway... an experiment begins.
+06/04/24: Added several items, including [running](running.md) from 2000.
 02/16/24: Continuing to add content - something from 1998 way down there on the list.
 
 
