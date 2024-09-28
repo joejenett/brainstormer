@@ -11,6 +11,10 @@ body {
 ::selection {
 	background: theme('colors.red.400');
 }
+.butts a:hover img {
+	transform:scale(1.1);
+}
+
 blockquote {
 padding-left:24px;
 border-left:3px solid #ccc;
