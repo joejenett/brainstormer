@@ -31,8 +31,8 @@ declare module '$env/static/private' {
 	export const NODE: string;
 	export const INIT_CWD: string;
 	export const GEM_HOME: string;
-	export const TERM: string;
 	export const SHELL: string;
+	export const TERM: string;
 	export const HISTSIZE: string;
 	export const TMPDIR: string;
 	export const HOMEBREW_REPOSITORY: string;
@@ -75,8 +75,8 @@ declare module '$env/static/private' {
 	export const npm_package_version: string;
 	export const XPC_SERVICE_NAME: string;
 	export const HISTCONTROL: string;
-	export const HOME: string;
 	export const SHLVL: string;
+	export const HOME: string;
 	export const HOMEBREW_PREFIX: string;
 	export const GEM_ROOT: string;
 	export const PERL_LOCAL_LIB_ROOT: string;
@@ -131,8 +131,8 @@ declare module '$env/dynamic/private' {
 		NODE: string;
 		INIT_CWD: string;
 		GEM_HOME: string;
-		TERM: string;
 		SHELL: string;
+		TERM: string;
 		HISTSIZE: string;
 		TMPDIR: string;
 		HOMEBREW_REPOSITORY: string;
@@ -175,8 +175,8 @@ declare module '$env/dynamic/private' {
 		npm_package_version: string;
 		XPC_SERVICE_NAME: string;
 		HISTCONTROL: string;
-		HOME: string;
 		SHLVL: string;
+		HOME: string;
 		HOMEBREW_PREFIX: string;
 		GEM_ROOT: string;
 		PERL_LOCAL_LIB_ROOT: string;
