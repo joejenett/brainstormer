@@ -27,12 +27,15 @@
  */
 declare module '$env/static/private' {
 	export const SONSE: string;
+	export const NVM_INC: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
 	export const INIT_CWD: string;
+	export const PYENV_ROOT: string;
 	export const GEM_HOME: string;
-	export const SHELL: string;
+	export const NVM_CD_FLAGS: string;
 	export const TERM: string;
+	export const SHELL: string;
 	export const HISTSIZE: string;
 	export const TMPDIR: string;
 	export const HOMEBREW_REPOSITORY: string;
@@ -48,6 +51,7 @@ declare module '$env/static/private' {
 	export const npm_config_noproxy: string;
 	export const npm_config_local_prefix: string;
 	export const USER: string;
+	export const NVM_DIR: string;
 	export const npm_config_globalconfig: string;
 	export const SSH_AUTH_SOCK: string;
 	export const MCFLY_SESSION_ID: string;
@@ -75,8 +79,9 @@ declare module '$env/static/private' {
 	export const npm_package_version: string;
 	export const XPC_SERVICE_NAME: string;
 	export const HISTCONTROL: string;
-	export const SHLVL: string;
 	export const HOME: string;
+	export const SHLVL: string;
+	export const PYENV_SHELL: string;
 	export const HOMEBREW_PREFIX: string;
 	export const GEM_ROOT: string;
 	export const PERL_LOCAL_LIB_ROOT: string;
@@ -85,6 +90,7 @@ declare module '$env/static/private' {
 	export const npm_lifecycle_script: string;
 	export const GEM_PATH: string;
 	export const RUBY_ROOT: string;
+	export const NVM_BIN: string;
 	export const npm_config_user_agent: string;
 	export const HOMEBREW_CELLAR: string;
 	export const INFOPATH: string;
@@ -127,12 +133,15 @@ declare module '$env/static/public' {
 declare module '$env/dynamic/private' {
 	export const env: {
 		SONSE: string;
+		NVM_INC: string;
 		TERM_PROGRAM: string;
 		NODE: string;
 		INIT_CWD: string;
+		PYENV_ROOT: string;
 		GEM_HOME: string;
-		SHELL: string;
+		NVM_CD_FLAGS: string;
 		TERM: string;
+		SHELL: string;
 		HISTSIZE: string;
 		TMPDIR: string;
 		HOMEBREW_REPOSITORY: string;
@@ -148,6 +157,7 @@ declare module '$env/dynamic/private' {
 		npm_config_noproxy: string;
 		npm_config_local_prefix: string;
 		USER: string;
+		NVM_DIR: string;
 		npm_config_globalconfig: string;
 		SSH_AUTH_SOCK: string;
 		MCFLY_SESSION_ID: string;
@@ -175,8 +185,9 @@ declare module '$env/dynamic/private' {
 		npm_package_version: string;
 		XPC_SERVICE_NAME: string;
 		HISTCONTROL: string;
-		SHLVL: string;
 		HOME: string;
+		SHLVL: string;
+		PYENV_SHELL: string;
 		HOMEBREW_PREFIX: string;
 		GEM_ROOT: string;
 		PERL_LOCAL_LIB_ROOT: string;
@@ -185,6 +196,7 @@ declare module '$env/dynamic/private' {
 		npm_lifecycle_script: string;
 		GEM_PATH: string;
 		RUBY_ROOT: string;
+		NVM_BIN: string;
 		npm_config_user_agent: string;
 		HOMEBREW_CELLAR: string;
 		INFOPATH: string;
