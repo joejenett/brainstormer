@@ -244,7 +244,7 @@ display:none;
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "32k4kw"
+  version_hash: "vn0047"
 };
 async function get_hooks() {
   return {};
