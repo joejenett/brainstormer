@@ -160,12 +160,11 @@ display:none;
 	</head>
 	<body data-sveltekit-preload-data="hover">
 <div style="padding:3px 12px;background:#dedede;margin-bottom:6px;">
+<a href="javascript:history.go(-1)">
+<button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">&lt;-go back</button>
+</a>
 <a href="https://brainstormer.joejenett.com/">
 <button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">🏠 home
-</button>
-</a>
-<a href="javascript:history.go(-1)">
-<button style="background:white;font-family:'Courier New',serif;padding:1px 3px;border:1px solid #999;margin-bottom:3px;">&lt;&mdash;go back</button>
 </button>
 </a>
 <a href="https://ideas.joejenett.com/">
@@ -245,7 +244,7 @@ display:none;
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "52p01h"
+  version_hash: "32k4kw"
 };
 async function get_hooks() {
   return {};
