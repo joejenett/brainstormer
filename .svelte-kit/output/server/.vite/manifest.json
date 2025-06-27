@@ -74,7 +74,7 @@
   },
   "src/routes/+layout.svelte": {
     "css": [
-      "_app/immutable/assets/_layout.BhpWx4Dj.css"
+      "_app/immutable/assets/_layout.C0uAzSBJ.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
