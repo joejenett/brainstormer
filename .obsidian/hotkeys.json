@@ -1,0 +1,11 @@
+{
+  "webpage-html-export:export-html-setting": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ]
+}
